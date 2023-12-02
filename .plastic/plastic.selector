@@ -1,0 +1,4 @@
+repository "Clicker@kolobok21212@cloud"
+  path "/"
+    br "/main"
+    co "/main"
