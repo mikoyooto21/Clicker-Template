@@ -22,15 +22,15 @@ MonoBehaviour:
   - enemyId: 2
     enemyImg: {fileID: 21300000, guid: a368e48e21ccb6642a7c17f0d53c0868, type: 3}
     classBossOrNot: 0
-  - enemyId: 3
+  - enemyId: 4
     enemyImg: {fileID: 21300000, guid: 7ea1ae290c93c2e4f9cfd0abc04e7ca6, type: 3}
     classBossOrNot: 0
-  - enemyId: 3
+  - enemyId: 5
     enemyImg: {fileID: 21300000, guid: 41e1444e6da4ff64caeb252b9d574b17, type: 3}
     classBossOrNot: 0
-  - enemyId: 3
+  - enemyId: 6
     enemyImg: {fileID: 21300000, guid: c67d407671d9b90468fb62e60bfc3bc1, type: 3}
     classBossOrNot: 0
-  - enemyId: 3
+  - enemyId: 7
     enemyImg: {fileID: 21300000, guid: e0b31d3ef6878a24ab8e416ac4ef5bb3, type: 3}
     classBossOrNot: 0
